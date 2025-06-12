@@ -19,10 +19,13 @@ Este projeto apresenta três modelos de seleção de portfólio baseados em fato
 
 ## 🚀 Tecnologias utilizadas
 
-- Python
-- Pandas, NumPy, yfinance
-- Matplotlib, Seaborn
-- Google Colab
+Python 3
+NumPy – operações numéricas e vetoriais
+Pandas – manipulação de dados e séries temporais
+Matplotlib – geração de gráficos e visualizações
+Statsmodels – análise estatística e regressão (Alpha/Beta)
+Datetime & Dateutil – manipulação de datas
+itertools – geração de combinações e iterações eficientes
 
 ## 💡 Inspiração
 
